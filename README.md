@@ -1,3 +1,5 @@
+<img width="1467" height="462" alt="Image" src="https://github.com/user-attachments/assets/74c294a0-0ccd-4712-9d8c-2c9afcd4594f" />
+
 # Desafio de Ciência de Dados - PProductions
 
 ## Introdução
